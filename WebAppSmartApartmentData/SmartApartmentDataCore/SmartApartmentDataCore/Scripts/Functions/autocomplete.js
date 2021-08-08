@@ -13,9 +13,6 @@
 
                 }
             })
-        },
-        messages: {
-            noResults: "", results: ""
         }
     });
 })
